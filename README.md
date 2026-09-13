@@ -45,5 +45,3 @@ php artisan migrate
 php artisan serve
 npm run dev
 ```
-
-Buka `http://localhost:8000`.
